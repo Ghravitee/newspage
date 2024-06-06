@@ -24,7 +24,7 @@ const Hero = () => {
         </p>
         <a
           href="/"
-          className="hover:bg-Very-Dark-Blue hover:text-white flex justify-center items-center w-[40%] lg:w-1/2 text-xs bg-Soft-Red text-Very-Dark-Blue px-6 py-2 lg:py-3 uppercase font-bold tracking-widest"
+          className="hover:bg-Very-Dark-Blue hover:text-white flex justify-center items-center w-[40%] lg:w-1/2 text-xs bg-Soft-Red text-Very-Dark-Blue px-6 py-3 uppercase font-bold tracking-widest"
         >
           Read more
         </a>
